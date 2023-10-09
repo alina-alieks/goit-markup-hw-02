@@ -89,7 +89,6 @@ a {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -118,10 +117,12 @@ a {
 }
 .team-profession {
     text-align: center;
-}
+    background-color: #FFFFFF;
+    }
 
 .section-team {
-    line-height: 1.2;
+    line-height: 1.11;
+    background-color: #F4F4FD;
 }
 
 /* Section Portfolio */
@@ -130,15 +131,12 @@ a {
     background-color: #FFFFFF;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.11;
     letter-spacing: 0.02em;
+    line-height: 1.5
 }
 .section-portfolio {
     background-color: #F4F4FD;
-    line-height: 1.11;
-
-}
-.section-portfolio {
+    line-height: 1.12;
 
 }
 

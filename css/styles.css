@@ -97,6 +97,7 @@ a {
 /* Section Benefits */
 .section-benefits {
     background-color: #F4F4FD;
+    line-height: 1.2;
 }
 .benefits-title {
     color: #2E2F42;
@@ -118,13 +119,27 @@ a {
 .team-profession {
     text-align: center;
 }
+
+.section-team {
+    line-height: 1.2;
+}
+
 /* Section Portfolio */
 .portfolio-list {
     color: #2E2F42;
+    background-color: #FFFFFF;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.11;
     letter-spacing: 0.02em;
+}
+.section-portfolio {
+    background-color: #F4F4FD;
+    line-height: 1.11;
+
+}
+.section-portfolio {
+
 }
 
 /* Footer */

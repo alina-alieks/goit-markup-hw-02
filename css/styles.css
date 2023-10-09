@@ -1,0 +1,101 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: FFFFFF;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+/* Header */ 
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16667;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;   
+}
+.logo-web {
+    color: #4D5AE5;
+}
+.logo-studio {
+    color: #2E2F42;
+}
+.nav-list {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+.nav-list:hover,
+.nav-list:focus {
+    color: #404BBF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    width: 48px;
+    height: 52px;
+    padding-bottom: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.address-list {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+.address-list:hover,
+.address-list:focus {
+    color: #404BBF;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+/* Section Hero */
+h1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07143;
+    letter-spacing: 1.12px;
+}
+.section-hero {
+    background-color: #2E2F42;
+}
+.button-hero {
+   cursor: pointer;
+    border-radius: 4px;
+    background-color: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px;
+    padding: 16px 32px;
+}
+.button-text {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+}
+/* Section Benefits */
+/* Section Team */
+/* Section Portfolio */
+/* Footer */
+footer {
+background-color: #2E2F42;
+}
+.logo-web-footer {
+    color: #4D5AE5;
+}
+
+.logo-studio-footer {
+    color: #F4F4FD;
+}
